@@ -1,0 +1,6 @@
+{
+  "name": "Coding First - Belajar Coding Anak & Pelajar",
+  "description": "Website resmi Coding First. Kursus coding anak dan pelajar dengan kurikulum terstruktur, mentor berpengalaman, dan pendaftaran free trial online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
